@@ -28,6 +28,17 @@
       "side": 2,
       "sideid1": "rbxassetid://97257831780987",
       "sideid2": "rbxassetid://14038699056"
+    {
     },
-   
+     "number": 3,
+      "route": "15Z",
+      "front": 3,
+      "frontid1": "rbxassetid://97257831780987",
+      "frontid2": "rbxassetid://14038699056",
+      "controllerid1": "",
+      "controllerid2": "",
+      "side": 3,
+      "sideid1": "rbxassetid://97257831780987",
+      "sideid2": "rbxassetid://14038699056"
+    },
   ]
